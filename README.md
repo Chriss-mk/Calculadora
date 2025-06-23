@@ -1,6 +1,6 @@
 # 🧮 Calculadora Web
 
-Una calculadora simple, moderna y funcional creada con **HTML**, **CSS** y **JavaScript**. Ideal para practicar desarrollo web y lógica básica de programación.
+Una calculadora simple, moderna y funcional creada con **HTML**, **CSS** y **JavaScript**. Ideal para practicar desarrollo web y lógica básica de programación, cread por Euge y Maik.
 
 ## ✨ Características
 
