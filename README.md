@@ -20,7 +20,7 @@ Una calculadora simple, moderna y funcional creada con **HTML**, **CSS** y **Jav
 
 ## 📸 Vista previa
 
-<img src="foto1.png" alt="Captura de la Calculadora Web" width="400">
+<img src="foto1.png" alt="Captura de la Calculadora Web" >
 
 ---
 
